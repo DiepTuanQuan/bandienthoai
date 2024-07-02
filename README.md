@@ -1,6 +1,8 @@
 # bandienthoai
 ### sử dụng
 
+http://localhost/shopdienthoai/index.php
+
 - Vào phpmyadmin tạo csdl mới, đặt tên là: shopdienthoai
 - import file shopdienthoai.sql vào trong csdl vừa tạo
 
